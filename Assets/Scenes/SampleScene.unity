@@ -450,7 +450,7 @@ Transform:
   m_GameObject: {fileID: 798317988}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 43.1, y: 9.83, z: 0}
+  m_LocalPosition: {x: 42.91, y: 9.72, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -487,7 +487,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SpikeTest
   map: {fileID: 1250987411}
   radius: 1.17
-  origin: {fileID: 0}
+  origin: {fileID: 2800000, guid: 3bab35a0079863c43b8f82a7c506eec5, type: 3}
+  copy: {fileID: 0}
 --- !u!4 &1016656233
 Transform:
   m_ObjectHideFlags: 0
